@@ -1,0 +1,14 @@
+Project code: omniscient-sheet-6598
+Website Name: Kickstarter
+Website Link: https://www.kickstarter.com/
+
+IA Assigned: Sheelu Kumar.
+
+Project Buddy: fp04_384 - Sahil Laskar
+
+Tech Stack: 
+
+Task List:
+1.
+2.
+3.
