@@ -6,9 +6,16 @@ IA Assigned: Sheelu Kumar.
 
 Project Buddy: fp04_384 - Sahil Laskar
 
-Tech Stack: 
+Tech Stack: Chakra UI | React JS | JavaScript | Axios
 
 Task List:
-1.
-2.
-3.
+1. Navbar Component
+2. Footer Component
+3. Homepage 
+4. Login Component
+5. Sign up Component
+6. Product page
+7. Navigation (Routes) 
+8. Recommendations 
+9. Saved Product
+10. Profile
