@@ -6,6 +6,8 @@ import Profile from "../Pages/Profile";
 import Recommendations from "../Pages/Recommendations";
 import Savedproject from "../Pages/Savedproject";
 import CommingSoon from "../Pages/CommingSoon";
+import Login from "../Components/Login";
+import Signup from "../Components/Signup";
 
 const AllRoutes = () => {
 	return (
@@ -16,6 +18,8 @@ const AllRoutes = () => {
 			<Route path="/recommendations" element={<Recommendations />} />
 			<Route path="/profile/savedprojects" element={<Savedproject />} />
 			<Route path="/commingsoon" element={<CommingSoon />} />
+			<Route path="/login" element={<Login />} />
+			<Route path="/signup" element={<Signup />} />
 		</Routes>
 	);
 };
