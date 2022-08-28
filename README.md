@@ -2,7 +2,7 @@
 
 # Project code: omniscient-sheet-6598
 
-Deployment URL: `https://kickstarter-clone-three.vercel.app/`
+Deployment URL: ---https://kickstarter-clone-three.vercel.app/---
 
 ## Tech Stack
 
@@ -15,4 +15,4 @@ Deployment URL: `https://kickstarter-clone-three.vercel.app/`
 
 ## API used
 
-`https://www.kickstarter.com/projects/search.json`
+---https://www.kickstarter.com/projects/search.json---
