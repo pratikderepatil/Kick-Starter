@@ -6,7 +6,7 @@ const AuthContextProvider = ({ children }) => {
 	const [isAuth, setIsAuth] = React.useState(false);
 	const [userdata, setData] = React.useState({
 		email: "eve.holt@reqres.ins",
-		password: "pistol",
+		password: "cityslicka",
 	});
 
 	useEffect(() => {
@@ -39,12 +39,12 @@ const AuthContextProvider = ({ children }) => {
 		if (isAuth !== true) {
 			setData({
 				email: "eve.holt@reqres.in",
-				password: "pistol",
+				password: "cityslicka",
 			});
 		} else {
 			setData({
 				email: "eve.holt@reqres.ins",
-				password: "pistol",
+				password: "cityslicka",
 			});
 		}
 	};

@@ -1,18 +1,38 @@
-# Clone of Kickstarter website
+# KickStarter
 
-# Project code: omniscient-sheet-6598
+## Project Details
 
-Deployment URL: ---https://kickstarter-clone-three.vercel.app/---
+### `Project Code: omniscient-sheet-6598`
+
+Kickstarter campaigns make ideas into reality. It’s where creators share new visions for creative work with the communities that will come together to fund them.
+
+#### <a href="https://kickstarter-clone-three.vercel.app">Want to see live preview >></a>
+
+### Pages
+
+- Landing page
+- Login and Signup (Role based signup)
+- Comming Soon page
+
+### Features
+
+- Landing page for KickStarter
+- Login and Signup
 
 ## Tech Stack
 
-`Chakra UI | JavaScript | React JS`
+<p>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+<img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=F7DF1E" alt="ReactRouter" />
+</p>
 
-## Dependencies Used
+## Install
 
-`react-router-dom`
-`axios`
+To install all the dependences of the project, run the following command:
 
-## API used
+    git clone https://github.com/pratikderepatil/Kick-Starter.git
+    npm install
 
----https://www.kickstarter.com/projects/search.json---
+© 2022 Team omniscient-sheet
